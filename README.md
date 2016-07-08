@@ -1,2 +1,2 @@
 # KJVBibleSite
-generates web pages og KJV Bible with Hebrew Greek and Strong's
+generates web pages of KJV Bible with Hebrew Greek and Strong's
